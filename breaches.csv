@@ -1,0 +1,68 @@
+index,organisation,records_lost,year,date,sector,method,data_sensitivity,source_name
+1,Syniverse,500000000,2021,2021-09-01,telecoms,hacked,4,Vice
+5,Thailand visitors,100000000,2021,2021-09-01,government,poor security,2,South China Morning Post
+10,Linkedin,700000000,2021,2021-07-01,web,hacked,1,9 to 5 mac
+21,Experian Brazil,220000000,2021,2021-02-01,finance,hacked,2,ZDNet
+24,Facebook,533000000,2021,2021-03-01,tech,hacked,1,Business Insider
+28,SolarWinds,50000000,2020,2020-12-01,app,hacked,3,New York Times
+37,Pakistani mobile operators,115000000,2020,2020-04-01,telecoms,hacked,2,ZDNet
+41,Microsoft,250000000,2020,2020-01-01,web,poor security,1,Forbes
+56,Canva,139000000,2019,2019-05-01,web,hacked,2,ZDNet
+57,Chtrbox,49000000,2019,2019-05-01,misc,poor security,1,Techcrunch
+62,Dubsmash,162000000,2019,2019-02-01,web,hacked,1,The Register
+63,ShareThis,41000000,2019,2019-02-01,web,hacked,1,The Register
+77,Houzz,57000000,2019,2019-02-01,retail,hacked,2,Techcrunch
+86,Indian citizens,275265298,2019,2019-05-01,web,poor security,2,Bleeping Computer
+88,Capital One,100000000,2019,2019-07-01,finance,hacked,3,Forbes
+90,Facebook,419000000,2019,2019-09-01,web,poor security,2,Fast Company
+93,OxyData,380000000,2019,2019-11-01,tech,poor security,2,Dataviper
+97,Cathay Pacific Airways,94000000,2018,2018-10-01,transport,hacked,3,ABC News
+98,Chinese resume leak,202000000,2018,2018-12-01,web,poor security,2,HackenProof
+99,Google+,52500000,2018,2018-12-01,web,poor security,2,The Verge
+100,Quora,100000000,2018,2018-12-01,web,hacked,1,NY Times
+101,Marriott International,383000000,2018,2018-11-01,retail,hacked,3,"NY Times, CNET"
+103,Facebook,50000000,2018,2018-03-01,web,hacked,1,Guardian
+106,MyHeritage,92283889,2018,2018-06-01,web,hacked,1,Bloomberg
+112,MyFitnessPal,150000000,2018,2018-03-01,app,hacked,1,Guardian
+114,Nametests,120000000,2018,2018-06-01,app,poor security,1,Medium
+116,Firebase,100000000,2018,2018-06-01,app,poor security,5,Bleeping Computer
+117,Aadhaar,550000000,2018,2018-03-01,government,poor security,4,ZDNet
+121,LocalBlox,48000000,2018,2018-05-01,web,poor security,2,UpGuard
+122,Twitter,330000000,2018,2018-05-01,tech,poor security,1,Reuters
+133,Newegg,45000000,2018,2018-09-01,retail,hacked,3,TechCrunch
+135,Apollo,200000000,2018,2018-05-01,tech,poor security,1,Wired
+139,Uber,57000000,2017,2017-11-01,app,hacked,1,Bloomberg
+142,Spambot,520000000,2017,2017-08-01,web,poor security,4,The Guardian
+149,River City Media,340000000,2017,2017-03-01,web,oops!,2,Guardian
+155,Malaysian telcos & MVNOs,46200000,2017,2017-10-01,telecoms,hacked,4,LowYat
+159,Equifax,143000000,2017,2017-09-01,finance,hacked,4,UK Gov
+161,LinkedIn,117000000,2016,2016-05-01,web,hacked,1,CNN
+162,Tumblr,65000000,2016,2016-05-01,web,hacked,1,Vice
+163,Yahoo,500000000,2016,2016-09-01,web,hacked,2,CNBC
+165,Philippines’ Commission on Elections,55000000,2016,2016-04-01,government,hacked,5,Trend Micro
+168,Turkish citizenship database,49611709,2016,2016-04-01,government,hacked,2,Business Insider
+179,VK,171000000,2016,2016-06-01,web,hacked,4,Motherboard
+182,MySpace,164000000,2016,2016-05-01,web,hacked,1,Vice
+186,Dailymotion,85200000,2016,2016-12-01,web,hacked,1,ZDNet
+187,Weebly,43000000,2016,2016-10-01,web,hacked,4,Tech Crunch
+190,Friend Finder Network,412000000,2016,2016-11-01,web,hacked,1,ZDNet
+197,Deep Root Analytics,198000000,2015,2015-12-01,web,poor security,2,"Reuters, UpGuard"
+210,Securus Technologies,70000000,2015,2015-11-01,web,hacked,5,The Intercept
+216,Anthem ,80000000,2015,2015-02-01,health,hacked,2,NYTimes
+224,Ebay,145000000,2014,2014-05-01,web,hacked,1,Business Insider
+227,JP Morgan Chase,76000000,2014,2014-10-01,finance,hacked,3,Deal Book
+233,Home Depot,56000000,2014,2014-09-01,retail,hacked,3,Krebs on Security
+237,Massive American business hack,160000000,2013,2013-07-01,finance,hacked,5,Technology Review
+242,Living Social,50000000,2013,2013-04-01,web,hacked,1,"Naked Security, New York Times"
+243,Yahoo,550000000,2013,2016-12-01,web,hacked,2,"NY Times, BBC"
+254,UbiSoft,58000000,2013,2013-07-01,gaming,hacked,2,BBC News
+259,Evernote,50000000,2013,2013-03-01,web,hacked,1,"Wired, Digital Trends"
+266,Court Ventures,200000000,2013,2013-10-01,finance,inside job,2,"NY Times, Gov Tech"
+271,Target,70000000,2013,2013-12-01,retail,hacked,3,Huffington Post
+287,Last.fm,43500000,2012,2016-09-01,web,hacked,1,ZD Net
+294,Dropbox,68700000,2012,2016-08-01,web,hacked,1,The Telegraph
+304,Sony PSN,77000000,2011,2011-04-01,gaming,hacked,1,Mashable
+345,Heartland,130000000,2009,2009-01-01,finance,hacked,3,Dark Reading
+353,US Military,76000000,2009,2009-10-01,military,lost device ,2,Wired
+379,TK / TJ Maxx,94000000,2007,2007-03-01,retail,hacked,3,ZD Net
+391,AOL,92000000,2004,2004-06-01,web,inside job,1,CNN
