@@ -1,0 +1,251 @@
+period_begin,state,state_code,property_type,median_sale_price
+2020-01-01,Minnesota,MN,Single Family Residential,262200
+2020-01-01,New Hampshire,NH,Townhouse,247000
+2020-01-01,Georgia,GA,All Residential,230800
+2020-01-01,New Hampshire,NH,Condo/Co-op,222300
+2020-01-01,South Dakota,SD,Multi-Family (2-4 Unit),162400
+2020-01-01,Utah,UT,Townhouse,288000
+2020-01-01,Maine,ME,Multi-Family (2-4 Unit),213400
+2020-01-01,Alaska,AK,Condo/Co-op,170400
+2020-01-01,Georgia,GA,Condo/Co-op,205800
+2020-01-01,Arizona,AZ,All Residential,284100
+2020-01-01,Columbia,DC,Condo/Co-op,458000
+2020-01-01,New Jersey,NJ,Condo/Co-op,313200
+2020-01-01,Nebraska,NE,All Residential,187400
+2020-01-01,South Carolina,SC,Condo/Co-op,170900
+2020-01-01,Arizona,AZ,Multi-Family (2-4 Unit),310700
+2020-01-01,Oregon,OR,Single Family Residential,363600
+2020-01-01,Virginia,VA,Multi-Family (2-4 Unit),184800
+2020-01-01,Kansas,KS,Condo/Co-op,111800
+2020-01-01,Colorado,CO,All Residential,410000
+2020-01-01,Columbia,DC,Multi-Family (2-4 Unit),714500
+2020-01-01,Mississippi,MS,Multi-Family (2-4 Unit),194300
+2020-01-01,Oklahoma,OK,Single Family Residential,163700
+2020-01-01,South Carolina,SC,All Residential,240100
+2020-01-01,Wyoming,WY,Single Family Residential,317200
+2020-01-01,New Jersey,NJ,All Residential,320600
+2020-01-01,Mississippi,MS,All Residential,167100
+2020-01-01,Vermont,VT,Condo/Co-op,223200
+2020-01-01,Utah,UT,Single Family Residential,358600
+2020-01-01,Ohio,OH,All Residential,152200
+2020-01-01,Louisiana,LA,Condo/Co-op,138300
+2020-01-01,Maine,ME,Condo/Co-op,269600
+2020-01-01,South Carolina,SC,Townhouse,205200
+2020-01-01,New Mexico,NM,Multi-Family (2-4 Unit),233400
+2020-01-01,Tennessee,TN,Single Family Residential,238600
+2020-01-01,Texas,TX,Townhouse,207900
+2020-01-01,Ohio,OH,Condo/Co-op,145300
+2020-01-01,Maryland,MD,Condo/Co-op,198100
+2020-01-01,North Dakota,ND,Multi-Family (2-4 Unit),240000
+2020-01-01,Alabama,AL,Multi-Family (2-4 Unit),194200
+2020-01-01,Louisiana,LA,Single Family Residential,198600
+2020-01-01,Indiana,IN,Condo/Co-op,153600
+2020-01-01,Wyoming,WY,Townhouse,463400
+2020-01-01,Pennsylvania,PA,Condo/Co-op,228800
+2020-01-01,Minnesota,MN,Multi-Family (2-4 Unit),258900
+2020-01-01,New York,NY,Multi-Family (2-4 Unit),539900
+2020-01-01,Nebraska,NE,Single Family Residential,187100
+2020-01-01,North Dakota,ND,All Residential,226700
+2020-01-01,West Virginia,WV,Single Family Residential,163100
+2020-01-01,Arkansas,AR,Single Family Residential,160600
+2020-01-01,New Mexico,NM,Single Family Residential,257600
+2020-01-01,South Dakota,SD,Single Family Residential,209400
+2020-01-01,Alaska,AK,Single Family Residential,281100
+2020-01-01,Delaware,DE,Townhouse,172600
+2020-01-01,New Hampshire,NH,Multi-Family (2-4 Unit),313400
+2020-01-01,Michigan,MI,Condo/Co-op,178800
+2020-01-01,Indiana,IN,Multi-Family (2-4 Unit),91500
+2020-01-01,New Hampshire,NH,Single Family Residential,279000
+2020-01-01,New Jersey,NJ,Multi-Family (2-4 Unit),386000
+2020-01-01,Arkansas,AR,Townhouse,151200
+2020-01-01,Idaho,ID,Townhouse,356800
+2020-01-01,Montana,MT,Condo/Co-op,300400
+2020-01-01,New Mexico,NM,Condo/Co-op,245700
+2020-01-01,Nevada,NV,Condo/Co-op,173000
+2020-01-01,West Virginia,WV,Multi-Family (2-4 Unit),60000
+2020-01-01,Mississippi,MS,Townhouse,141500
+2020-01-01,Kansas,KS,Townhouse,159800
+2020-01-01,Delaware,DE,Condo/Co-op,137000
+2020-01-01,Hawaii,HI,Single Family Residential,649300
+2020-01-01,North Dakota,ND,Townhouse,246600
+2020-01-01,Alabama,AL,Single Family Residential,191000
+2020-01-01,Missouri,MO,Single Family Residential,173200
+2020-01-01,Maryland,MD,Single Family Residential,354200
+2020-01-01,Florida,FL,Single Family Residential,265800
+2020-01-01,Minnesota,MN,All Residential,252300
+2020-01-01,Oklahoma,OK,Condo/Co-op,114200
+2020-01-01,Kansas,KS,Multi-Family (2-4 Unit),152300
+2020-01-01,Oregon,OR,All Residential,356000
+2020-01-01,New Jersey,NJ,Single Family Residential,322300
+2020-01-01,West Virginia,WV,All Residential,159300
+2020-01-01,Tennessee,TN,Condo/Co-op,244200
+2020-01-01,Idaho,ID,Condo/Co-op,329500
+2020-01-01,Mississippi,MS,Single Family Residential,168400
+2020-01-01,Wisconsin,WI,Multi-Family (2-4 Unit),146500
+2020-01-01,Missouri,MO,All Residential,171000
+2020-01-01,Pennsylvania,PA,Townhouse,187300
+2020-01-01,Nebraska,NE,Condo/Co-op,211500
+2020-01-01,Maine,ME,All Residential,224100
+2020-01-01,Georgia,GA,Multi-Family (2-4 Unit),226500
+2020-01-01,Colorado,CO,Townhouse,408900
+2020-01-01,Washington,WA,Condo/Co-op,337500
+2020-01-01,Louisiana,LA,All Residential,198500
+2020-01-01,Iowa,IA,All Residential,164400
+2020-01-01,Georgia,GA,Single Family Residential,234000
+2020-01-01,Pennsylvania,PA,Multi-Family (2-4 Unit),135000
+2020-01-01,Kentucky,KY,Single Family Residential,170300
+2020-01-01,Louisiana,LA,Townhouse,52700
+2020-01-01,Maryland,MD,Townhouse,216300
+2020-01-01,Rhode Island,RI,Single Family Residential,307300
+2020-01-01,Rhode Island,RI,Condo/Co-op,235000
+2020-01-01,Utah,UT,Multi-Family (2-4 Unit),418500
+2020-01-01,South Dakota,SD,Townhouse,240000
+2020-01-01,Wisconsin,WI,Condo/Co-op,181200
+2020-01-01,Montana,MT,Townhouse,290000
+2020-01-01,Texas,TX,Single Family Residential,239200
+2020-01-01,Iowa,IA,Townhouse,224900
+2020-01-01,Arkansas,AR,All Residential,161300
+2020-01-01,Massachusetts,MA,All Residential,429000
+2020-01-01,Wyoming,WY,All Residential,300000
+2020-01-01,South Carolina,SC,Single Family Residential,254700
+2020-01-01,Oregon,OR,Multi-Family (2-4 Unit),437500
+2020-01-01,Arizona,AZ,Townhouse,228000
+2020-01-01,Oregon,OR,Townhouse,352500
+2020-01-01,Massachusetts,MA,Single Family Residential,417600
+2020-01-01,Utah,UT,Condo/Co-op,349900
+2020-01-01,Tennessee,TN,Townhouse,223800
+2020-01-01,Arkansas,AR,Multi-Family (2-4 Unit),145900
+2020-01-01,Iowa,IA,Condo/Co-op,174100
+2020-01-01,Massachusetts,MA,Townhouse,398700
+2020-01-01,Alabama,AL,All Residential,192400
+2020-01-01,Indiana,IN,All Residential,160400
+2020-01-01,Alabama,AL,Condo/Co-op,293800
+2020-01-01,New York,NY,All Residential,410800
+2020-01-01,Arizona,AZ,Single Family Residential,296000
+2020-01-01,North Carolina,NC,Multi-Family (2-4 Unit),259300
+2020-01-01,Virginia,VA,All Residential,299100
+2020-01-01,New Mexico,NM,Townhouse,234000
+2020-01-01,Delaware,DE,Single Family Residential,260800
+2020-01-01,Maine,ME,Single Family Residential,220200
+2020-01-01,Hawaii,HI,Condo/Co-op,459900
+2020-01-01,North Carolina,NC,Single Family Residential,242900
+2020-01-01,North Carolina,NC,Townhouse,227300
+2020-01-01,Washington,WA,All Residential,422900
+2020-01-01,New Mexico,NM,All Residential,254000
+2020-01-01,Missouri,MO,Condo/Co-op,142300
+2020-01-01,Georgia,GA,Townhouse,228600
+2020-01-01,Vermont,VT,Townhouse,279900
+2020-01-01,New Jersey,NJ,Townhouse,252200
+2020-01-01,Arizona,AZ,Condo/Co-op,191000
+2020-01-01,Nevada,NV,Townhouse,239200
+2020-01-01,North Dakota,ND,Single Family Residential,231500
+2020-01-01,Nevada,NV,All Residential,303200
+2020-01-01,Ohio,OH,Single Family Residential,156000
+2020-01-01,California,CA,Condo/Co-op,472600
+2020-01-01,Minnesota,MN,Townhouse,223300
+2020-01-01,Kentucky,KY,All Residential,168400
+2020-01-01,Illinois,IL,Townhouse,201100
+2020-01-01,Hawaii,HI,Townhouse,609800
+2020-01-01,Columbia,DC,Townhouse,607500
+2020-01-01,Kansas,KS,All Residential,192500
+2020-01-01,Pennsylvania,PA,Single Family Residential,206400
+2020-01-01,Wyoming,WY,Multi-Family (2-4 Unit),336400
+2020-01-01,Ohio,OH,Multi-Family (2-4 Unit),101300
+2020-01-01,Texas,TX,Multi-Family (2-4 Unit),289000
+2020-01-01,Columbia,DC,Single Family Residential,757500
+2020-01-01,Louisiana,LA,Multi-Family (2-4 Unit),246900
+2020-01-01,Utah,UT,All Residential,342100
+2020-01-01,Massachusetts,MA,Multi-Family (2-4 Unit),474500
+2020-01-01,Minnesota,MN,Condo/Co-op,193800
+2020-01-01,Maryland,MD,Multi-Family (2-4 Unit),219300
+2020-01-01,Nevada,NV,Single Family Residential,321800
+2020-01-01,Colorado,CO,Multi-Family (2-4 Unit),751400
+2020-01-01,Connecticut,CT,Condo/Co-op,186100
+2020-01-01,Idaho,ID,All Residential,297900
+2020-01-01,Michigan,MI,All Residential,169100
+2020-01-01,Vermont,VT,Single Family Residential,236900
+2020-01-01,Illinois,IL,All Residential,200000
+2020-01-01,Massachusetts,MA,Condo/Co-op,466200
+2020-01-01,Tennessee,TN,All Residential,236300
+2020-01-01,Oklahoma,OK,Townhouse,147500
+2020-01-01,Vermont,VT,All Residential,238600
+2020-01-01,Missouri,MO,Multi-Family (2-4 Unit),157600
+2020-01-01,Kentucky,KY,Multi-Family (2-4 Unit),158400
+2020-01-01,Maryland,MD,All Residential,290500
+2020-01-01,Vermont,VT,Multi-Family (2-4 Unit),261500
+2020-01-01,Montana,MT,Single Family Residential,301600
+2020-01-01,West Virginia,WV,Condo/Co-op,141600
+2020-01-01,Colorado,CO,Single Family Residential,425600
+2020-01-01,Rhode Island,RI,All Residential,300300
+2020-01-01,Idaho,ID,Single Family Residential,295600
+2020-01-01,North Carolina,NC,Condo/Co-op,186300
+2020-01-01,Florida,FL,Townhouse,230100
+2020-01-01,Nebraska,NE,Townhouse,199800
+2020-01-01,Illinois,IL,Multi-Family (2-4 Unit),248700
+2020-01-01,Virginia,VA,Condo/Co-op,258500
+2020-01-01,Iowa,IA,Single Family Residential,165200
+2020-01-01,Mississippi,MS,Condo/Co-op,152900
+2020-01-01,Hawaii,HI,All Residential,581000
+2020-01-01,Delaware,DE,All Residential,227500
+2020-01-01,Montana,MT,All Residential,297600
+2020-01-01,Missouri,MO,Townhouse,162700
+2020-01-01,New Hampshire,NH,All Residential,274900
+2020-01-01,Indiana,IN,Single Family Residential,163400
+2020-01-01,Kansas,KS,Single Family Residential,195300
+2020-01-01,Wyoming,WY,Condo/Co-op,413400
+2020-01-01,Washington,WA,Multi-Family (2-4 Unit),460200
+2020-01-01,Delaware,DE,Multi-Family (2-4 Unit),97500
+2020-01-01,Kentucky,KY,Townhouse,138800
+2020-01-01,Pennsylvania,PA,All Residential,195100
+2020-01-01,Illinois,IL,Single Family Residential,199600
+2020-01-01,Illinois,IL,Condo/Co-op,202200
+2020-01-01,Michigan,MI,Multi-Family (2-4 Unit),116000
+2020-01-01,Nevada,NV,Multi-Family (2-4 Unit),357900
+2020-01-01,Colorado,CO,Condo/Co-op,313700
+2020-01-01,South Carolina,SC,Multi-Family (2-4 Unit),335700
+2020-01-01,Oregon,OR,Condo/Co-op,268100
+2020-01-01,Wisconsin,WI,Townhouse,208100
+2020-01-01,Idaho,ID,Multi-Family (2-4 Unit),387300
+2020-01-01,Tennessee,TN,Multi-Family (2-4 Unit),179100
+2020-01-01,Alaska,AK,Multi-Family (2-4 Unit),345100
+2020-01-01,Alabama,AL,Townhouse,148200
+2020-01-01,Hawaii,HI,Multi-Family (2-4 Unit),221500
+2020-01-01,Washington,WA,Townhouse,541100
+2020-01-01,Iowa,IA,Multi-Family (2-4 Unit),116800
+2020-01-01,Rhode Island,RI,Multi-Family (2-4 Unit),295300
+2020-01-01,Florida,FL,All Residential,249200
+2020-01-01,Kentucky,KY,Condo/Co-op,148700
+2020-01-01,South Dakota,SD,All Residential,205900
+2020-01-01,New York,NY,Single Family Residential,334300
+2020-01-01,Florida,FL,Multi-Family (2-4 Unit),289100
+2020-01-01,Indiana,IN,Townhouse,170500
+2020-01-01,West Virginia,WV,Townhouse,167900
+2020-01-01,Texas,TX,Condo/Co-op,195800
+2020-01-01,Arkansas,AR,Condo/Co-op,199300
+2020-01-01,South Dakota,SD,Condo/Co-op,146200
+2020-01-01,Virginia,VA,Single Family Residential,302300
+2020-01-01,North Carolina,NC,All Residential,236900
+2020-01-01,California,CA,Single Family Residential,549100
+2020-01-01,New York,NY,Condo/Co-op,604700
+2020-01-01,Alaska,AK,All Residential,270500
+2020-01-01,North Dakota,ND,Condo/Co-op,124100
+2020-01-01,New York,NY,Townhouse,581700
+2020-01-01,Virginia,VA,Townhouse,342000
+2020-01-01,Wisconsin,WI,Single Family Residential,202900
+2020-01-01,Connecticut,CT,All Residential,258100
+2020-01-01,Florida,FL,Condo/Co-op,192700
+2020-01-01,Connecticut,CT,Multi-Family (2-4 Unit),222300
+2020-01-01,Michigan,MI,Single Family Residential,171300
+2020-01-01,Texas,TX,All Residential,237600
+2020-01-01,Oklahoma,OK,All Residential,162400
+2020-01-01,California,CA,Townhouse,580700
+2020-01-01,Connecticut,CT,Single Family Residential,291500
+2020-01-01,Washington,WA,Single Family Residential,422500
+2020-01-01,Columbia,DC,All Residential,550000
+2020-01-01,California,CA,Multi-Family (2-4 Unit),761400
+2020-01-01,Wisconsin,WI,All Residential,194700
+2020-01-01,California,CA,All Residential,546400
+2020-01-01,Oklahoma,OK,Multi-Family (2-4 Unit),160000
+2020-01-01,Montana,MT,Multi-Family (2-4 Unit),430200
+2020-01-01,Nebraska,NE,Multi-Family (2-4 Unit),170300
+2020-01-01,Ohio,OH,Townhouse,267800
