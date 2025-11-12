@@ -1,4 +1,4 @@
-id,stateAbb,stateName
+id,state_code,state_name
 1,AL,Alabama
 2,AK,Alaska
 4,AZ,Arizona
@@ -55,4 +55,5 @@ id,stateAbb,stateName
 69,MP,Northern Mariana Islands
 72,PR,Puerto Rico
 74,UM,U.S. Minor Outlying Islands
+
 78,VI,U.S. Virgin Islands
